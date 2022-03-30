@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/visor_acindar/static/css/main.2a75aa68.css",
+    "main.js": "/visor_acindar/static/js/main.c8cad7ac.js",
+    "static/js/787.6fd77d37.chunk.js": "/visor_acindar/static/js/787.6fd77d37.chunk.js",
+    "static/media/planta-villa-1.png": "/visor_acindar/static/media/planta-villa-1.eb9e1508a3c02e20a09d.png",
+    "static/media/DJI_0060.jpg": "/visor_acindar/static/media/DJI_0060.bacf5530b183890c0430.jpg",
+    "static/media/descarga.jpg": "/visor_acindar/static/media/descarga.136dfae9229202483925.jpg",
+    "static/media/example-image.png": "/visor_acindar/static/media/example-image.4ac46dd842effc8771e6.png",
+    "static/media/logo.png": "/visor_acindar/static/media/logo.d0728558dde0dff5161b.png",
+    "index.html": "/visor_acindar/index.html",
+    "main.2a75aa68.css.map": "/visor_acindar/static/css/main.2a75aa68.css.map",
+    "main.c8cad7ac.js.map": "/visor_acindar/static/js/main.c8cad7ac.js.map",
+    "787.6fd77d37.chunk.js.map": "/visor_acindar/static/js/787.6fd77d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a75aa68.css",
+    "static/js/main.c8cad7ac.js"
+  ]
+}
