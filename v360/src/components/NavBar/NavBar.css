@@ -1,0 +1,10 @@
+.navbar__logo--link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar__logo--text{
+    line-height: 25px;
+    margin-left: 10px;
+}

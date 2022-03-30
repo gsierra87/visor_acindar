@@ -1,0 +1,40 @@
+.section__detalle--container-visible{
+    background: white;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 10px;
+    margin-left: 10px;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    visibility: visible;
+    height: 99px;
+    width: 290px;
+}
+
+.section__detalle--titulo{
+    font-size: 15px;
+    color: orangered;
+}
+
+.section__detalle--separador{
+    margin: 0px;
+    width: 200px;
+    color: orangered;
+    height: 2px;
+    opacity: 100%;
+}
+
+.section__detalle--detalle
+{
+    font-size: 11px;
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.section__detalle--container-hidden{
+    visibility: hidden;
+    height: 99px;
+    width: 290px;
+}

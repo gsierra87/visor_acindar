@@ -1,0 +1,18 @@
+.circulo{
+    border:5px solid white;
+    width: 50px;
+    height:50px;
+    border-radius:50%;
+    background: orangered;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor: pointer;
+  }
+  
+  .circulo span{
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+  }
+  

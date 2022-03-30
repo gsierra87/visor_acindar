@@ -1,0 +1,8 @@
+.sector__section{
+    display: flex;
+    position: absolute;
+    top: 51px;
+    flex-direction: column;
+}
+
+
